@@ -7,6 +7,7 @@ namespace {
 
 TEST(Hiker, Life_the_universe_and_everything)
 {
+    //EXPECTED TO FAIL
     ASSERT_THAT(answer(), Eq(42));
 }
 

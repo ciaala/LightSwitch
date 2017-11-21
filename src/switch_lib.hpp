@@ -5,4 +5,6 @@
 #ifndef LIGHTSWITCH_SWITCH_LIB_HPP
 #define LIGHTSWITCH_SWITCH_LIB_HPP
 
+int add(int a , int b);
+
 #endif //LIGHTSWITCH_SWITCH_LIB_HPP
